@@ -10,6 +10,10 @@ public class Medunna_deneme {
     String password = "Medunna_pass_@6";
 
 
+
+
+
+
  @Test
     public void test2() throws SQLException {
      Connection connection=DriverManager.getConnection(url,user,password);
