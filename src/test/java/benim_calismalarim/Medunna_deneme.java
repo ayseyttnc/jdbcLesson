@@ -11,9 +11,6 @@ public class Medunna_deneme {
 
 
 
-
-
-
  @Test
     public void test2() throws SQLException {
      Connection connection=DriverManager.getConnection(url,user,password);
