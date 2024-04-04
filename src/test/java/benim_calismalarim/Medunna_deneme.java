@@ -8,7 +8,7 @@ public class Medunna_deneme {
     String url = "jdbc:postgresql://medunna.com:5432/medunna_db_v2";
     String user = "select_user";
     String password = "Medunna_pass_@6";
-
+// hadi uyuyalim
 
 
  @Test
